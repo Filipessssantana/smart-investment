@@ -23,7 +23,7 @@ Valores: Transparência, inovação, segurança e compromisso com o sucesso fina
 
 Frontend: HTML / CSS
 
-Backend:
+Backend: Java / Javascrit / NodeJS
 
 Banco de Dados: MySQL
 
